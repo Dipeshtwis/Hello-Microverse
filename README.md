@@ -5,7 +5,7 @@
 
 > In this project i have to setup HTML, CSS, and linters file.
 
-![screenshot](./app_screenshot.png)
+![screenshot](Hello_Microverse.png)
 
 
 
@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/Dipeshtwis/Hello-Microverse/feature/hello-microverse/index.html)
 
 
 ## Getting Started
