@@ -43,15 +43,15 @@ Open `index.html` to see the GUI of the project.
 
 👤 **Dipesh Kumar**
 
-- [Github](@Dipeshtwis)
-- [Twitter](@97deepeshkumar)
-- [Linkedin](https://www.linkedin.com/in/dipesh-kumar-b6ab88134/)
+- Github: [@Dipeshtwis](https://github.com/Dipeshtwis)
+- Twitter: [@97deepeshkumar](https://twitter.com/97deepeshkumar)
+- Linkedin: [dipeshtwis](https://www.linkedin.com/in/dipeshtwis/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Dipeshtwis/Hello-Microverse/issues).
 
 ## Show your support
 
@@ -65,4 +65,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
